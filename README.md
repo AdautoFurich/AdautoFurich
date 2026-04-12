@@ -32,8 +32,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/AdautoFurich/AdautoFurich/output/snake.svg" alt="Snake animation" />
-
-###
