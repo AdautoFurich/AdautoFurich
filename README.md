@@ -16,6 +16,7 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções digita
   <a href="mailto:Adautofurich@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Discord:%20adautofurich&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord" />
 </div>
 
 ---
