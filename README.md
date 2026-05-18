@@ -2,7 +2,7 @@
 
 **Acadêmico de Análise e Desenvolvimento de Sistemas - UMFG**
 
-Me chamo Adauto Furich, tenho 29 anos, moro em Cianorte-PR e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade UMFG Cianorte.
+Me chamo Adauto Furich, tenho 29 anos, moro em Cianorte-PR e sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade UMFG.
 
 Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções digitais. Estou em constante aprendizado, buscando aprimorar minhas habilidades em programação, sistemas e novas tecnologias, com o objetivo de construir uma carreira sólida no setor de tecnologia.
 
