@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções digita
 
 ---
 
-<h3 align="left">🤖🌐 Linguagens e Tecnologias</h3>
+<h3 align="left">🤖🌐 Linguagens e Ferramentas</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
