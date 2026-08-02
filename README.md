@@ -45,3 +45,5 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções digita
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdautoFurich&theme=tokyonight" alt="Resumo do perfil GitHub" />
 </div>
+
+---
