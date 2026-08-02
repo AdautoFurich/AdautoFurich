@@ -35,15 +35,3 @@ Sou apaixonado por tecnologia, inovação e desenvolvimento de soluções digita
 </div>
 
 ---
-
-### <h3 align="center">📊 Estatísticas</h3>
-
-<div align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdautoFurich&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdautoFurich&theme=tokyonight" alt="Resumo do perfil GitHub" />
-</div>
-
----
